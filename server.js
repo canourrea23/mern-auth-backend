@@ -18,4 +18,4 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Sever is listening 🎧 on port: ${PORT}`);
-})
+});
